@@ -1,0 +1,1 @@
+analyze_text.py reads sample.txt, prints its contenets and then calculates number of characters per row, as well as number and proportion of those letters that are uppercase and prints these like a table.
